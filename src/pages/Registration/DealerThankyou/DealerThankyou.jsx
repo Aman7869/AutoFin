@@ -8,6 +8,7 @@ const DealerThankyou = () => {
         contact: "We are here for you!"
     }
     console.log("Aman");
+    console.log("second feature.");
     return (
         <>
             <DealerThankyouStyled>
