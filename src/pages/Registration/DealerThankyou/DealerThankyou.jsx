@@ -7,6 +7,7 @@ const DealerThankyou = () => {
         autofin: " Collaborate with AUTOFIN in just a few steps",
         contact: "We are here for you!"
     }
+    console.log("Aman");
     return (
         <>
             <DealerThankyouStyled>
